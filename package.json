@@ -44,7 +44,7 @@
     "ngx-device-detector": "^1.4.2",
     "ngx-teximate": "^0.3.0",
     "rxjs": "~6.3.3",
-    "three": "^0.103.0",
+    "three": "^0.125.0",
     "tslib": "^1.11.2",
     "zone.js": "~0.8.26"
   },
